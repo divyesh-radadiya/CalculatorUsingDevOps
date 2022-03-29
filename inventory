@@ -1,5 +1,2 @@
-[ubuntu18]
-172.17.0.2 ansible_user=dvs
-
 [docker]
-172.17.0.2 ansible_ssh_pass=2606 ansible_ssh_user=root
+172.17.0.2 ansible_ssh_pass=2606 ansible_ssh_user=dvs
